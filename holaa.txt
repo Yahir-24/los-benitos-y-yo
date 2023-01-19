@@ -6,6 +6,9 @@
 
 //alex
 
+var alex
+escribir "ingrese valor total de x"
+
 //ryan
 
 //brayan
